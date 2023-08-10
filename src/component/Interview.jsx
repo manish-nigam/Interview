@@ -6,8 +6,8 @@ const Interview = () => {
         <div>
         <h1>Manish Nigam</h1>
         <p>I am a Fronted Devloper</p>
-        <a href="https://www.linkedin.com/in/manish-nigam-2a3328163/" >LinkedIn</a>
-        <a href="https://github.com/">Github</a>
+        <a href="https://www.linkedin.com/feed/" >LinkedIn</a>
+        <a href="https://github.com/manish-nigam">Github</a>
         </div>
         <hr />
         <div>
